@@ -1,8 +1,5 @@
 # Sanskritive
 
-Project for Productathon (IITR) participating as team ZENITH.
-App Walkthrough - https://youtu.be/dF9k11sBIDs
-
 
 ## Getting Started
 
