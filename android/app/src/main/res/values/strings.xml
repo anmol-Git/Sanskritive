@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sanskrit</string>
+    <string name="facebook_app_id">396538764969814</string>
+    <string name="fb_login_protocol_scheme">fbce4032d39959a952d178784f7304e539</string>
+</resources>

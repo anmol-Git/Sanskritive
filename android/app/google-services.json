@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "845002351889",
+    "project_id": "sanskritive",
+    "storage_bucket": "sanskritive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845002351889:android:d901ab0ca2fa8da92ed8b0",
+        "android_client_info": {
+          "package_name": "com.sanskrit.sanskrit_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845002351889-quhvi2nsek79j0khtgukfrn2nf270b05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanskrit.sanskrit_project",
+            "certificate_hash": "984510d2e06698043a27f01a48bff16293e2bfc2"
+          }
+        },
+        {
+          "client_id": "845002351889-5te49cavs17h67ia19bsb0reo9ro9bm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK4O6qMhq4Py92kI1Jtm_9rvoP1yQvtok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845002351889-5te49cavs17h67ia19bsb0reo9ro9bm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
